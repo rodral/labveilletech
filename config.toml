@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rodral.github.io/labveilletech"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
