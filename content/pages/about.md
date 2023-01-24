@@ -1,10 +1,10 @@
 ---
-title: 'About'
+title: 'Ikigai'
 image: images/writer.jpeg
 url: "about"
 menu:
   main:
-    name: "About"
+    name: "Ikigai"
     weight: 3
 ---
 

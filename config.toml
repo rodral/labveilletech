@@ -21,12 +21,12 @@ pygmentsUseClasses = true
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#F72C25'
-  baseColor = "#FCF6B1"
-  baseOffsetColor = "#A9E5BB"
-  headingColor = "#2D1E2F"
-  textColor = "#4e5157"
-  dotColor = "#F72C25"
+  highlightColor = '#AD343E'
+  baseColor = "#F2AF29"
+  baseOffsetColor = "#000000"
+  headingColor = "#e0e0ce"
+  textColor = "#474747"
+  dotColor = "#AD343E"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
