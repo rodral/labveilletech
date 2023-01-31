@@ -2,7 +2,7 @@ baseURL = "https://rodral.github.io/labveilletech"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Ma Veille Technologique"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,18 +15,18 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@rodral_"
+  twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
   addDot = true
   addFrame = true
-  highlightColor = '#AD343E'
-  baseColor = "#F2AF29"
-  baseOffsetColor = "#000000"
-  headingColor = "#e0e0ce"
-  textColor = "#474747"
-  dotColor = "#AD343E"
+  highlightColor = '#E63946'
+  baseColor = "#F1FAEE"
+  baseOffsetColor = "#1D3557"
+  headingColor = "#457B9D"
+  dotColor = "#A8DADC"
+  textColor = "#1D3557"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
