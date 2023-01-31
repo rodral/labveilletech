@@ -1,8 +1,7 @@
 ---
-title: "Blog"
+title: "Posts"
 date: 2023-02-24
 menu:
   main:
-    name: "Blog"
-    weight: 2
+    name: "Posts"
 ---

@@ -3,7 +3,8 @@ languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Ma Veille Technologique"
-paginate = 3
+
+paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -15,12 +16,12 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = ""
   showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  showAuthorOnPosts = true
   showPostsOnHomepage = true
   addDot = true
   addFrame = true
+
   highlightColor = '#E63946'
   baseColor = "#F1FAEE"
   baseOffsetColor = "#1D3557"
@@ -29,12 +30,16 @@ pygmentsUseClasses = true
   textColor = "#1D3557"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = false
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      hardWraps = false
+#      unsafe = true
+#      xhtml = false
+
+#[taxonomies]
+#  category = 'categories'
+#  tag = 'tags'
 
 [menu]
   [[menu.main]]
@@ -42,3 +47,24 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
+
+#  [[menu.main]]
+#    identifier = 'posts'
+#    name = 'Posts'
+#    url = '/posts/'
+#    weight = 2
+  
+ # [[menu.main]]
+ #   identifier = 'categories'
+ #   name = 'Catégories'
+ #   url = '/categories/'
+ #   weight = 4
+
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 5
+
+
+  

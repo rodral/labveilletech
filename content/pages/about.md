@@ -1,51 +1,28 @@
 ---
 title: 'Ikigai'
-image: images/writer.jpeg
-url: "about"
+image: images/me.jpg
+url: "ikigai"
 menu:
   main:
     name: "Ikigai"
     weight: 3
+taxonomy:
+  category: [about]
+  tag: [about]
 ---
 
-## Contra vagos
+# Who am I?
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+## Entering the Digital World
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+As a global citizen, I was born in the United States but raised in Switzerland. Growing up in a technologically advanced society sparked a passion in me for understanding the ways in which technology is shaping our world. Now, at the age of 25, I am excited to be graduating with my Bachelor’s degree in September and eager to apply my knowledge and skills to make an impact in the field!
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+## My background
 
-## Ducem oculos pallor tale quoque
+With a strong IT foundation, I have found my calling in combining creativity and communication to bring a fresh and innovative approach to media engineering and marketing. My technical background gives me a unique perspective, allowing me to create impactful and effective marketing strategies that drive positive change in the industry. I am learning skills over time, and my knowledge in both technical and creative domains enable me to deliver innovative solutions that will help businesses reach their full potential through strategic communication and marketing tactics. My goal is to continue sharpening my skills and getting experience to push the boundaries of traditional marketing and drive innovation in the industry, using data-driven approaches, emerging technologies, and user-centric design.
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+## My Ikigai
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+Ikigai is a Japanese concept that refers to a person's reason for being, their source of happiness and fulfillment. It is often described as the intersection of four key elements: what you love, what you are good at, what the world needs, and what you can be paid for. By finding and pursuing one's Ikigai, it is believed that a person can achieve a sense of purpose and meaning in their life. This is what mine looks like.
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+![ikigai](/static/images/ikigai.png)
