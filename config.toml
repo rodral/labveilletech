@@ -4,7 +4,7 @@ theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Ma Veille Technologique"
 
-paginate = 3
+paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
