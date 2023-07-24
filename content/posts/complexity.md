@@ -4,7 +4,7 @@ date: 2023-01-31
 description: 'Complex vs Complicated: Understanding the Difference and Solving Approach'
 taxonomy:
   category: [posts]
-  tag: [complexity, problem solving]
+  tags: ["complexity", "problem solving"]
 ---
 
 ## Introduction
