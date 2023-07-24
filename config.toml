@@ -4,7 +4,7 @@ theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Ma Veille Technologique"
 
-paginate = 5
+paginate = 6
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -48,11 +48,11 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
 
-  [[menu.main]]
-    identifier = 'posts'
-    name = 'Posts'
-    url = '/posts/'
-    weight = 2
+# [[menu.main]]
+#    identifier = 'posts'
+#   name = 'Posts'
+#    url = '/posts/'
+#    weight = 2
   
  # [[menu.main]]
  #   identifier = 'categories'
