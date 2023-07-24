@@ -60,11 +60,11 @@ pygmentsUseClasses = true
  #   url = '/categories/'
  #   weight = 4
 
-  [[menu.main]]
-    identifier = 'tags'
-    name = 'Tags'
-    url = '/tags/'
-    weight = 5
+ # [[menu.main]]
+ #   identifier = 'tags'
+ #   name = 'Tags'
+ #   url = '/tags/'
+ #   weight = 5
 
 
   
