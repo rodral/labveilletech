@@ -1,10 +1,10 @@
 ---
 title: "Google Killer"
-date: 2023-01-31
+date: 2023-01-13
 description: 'The Innovation Behind ChatGPT: Analyzing its Potential to Disrupt the Search Engine Industry '
 taxonomy:
   category: [posts]
-  tag: [chatgpt, search engine, google, openai]
+  tags: ["chatgpt", "search engine", "google", "openai"]
 ---
 
 OpenAI's ChatGPT is a highly innovative language model that has the potential to disrupt the search engine industry. In a recent article, "Can ChatGPT Kill Google?" by Ignacio de Gregorio Noblejas, the author explores the capabilities of ChatGPT and its potential impact on search engines like Google.

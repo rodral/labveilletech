@@ -1,6 +1,6 @@
 ---
 title: "Complexity"
-date: 2023-01-31
+date: 2023-01-16
 description: 'Complex vs Complicated: Understanding the Difference and Solving Approach'
 taxonomy:
   category: [posts]

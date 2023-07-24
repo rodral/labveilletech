@@ -1,10 +1,10 @@
 ---
 title: "Tech Watch"
-date: 2023-01-06
+date: 2023-01-31
 description: 'Find out how I maintain my technology watch using popular online platforms. From Medium to TikTok, follow my approach to stay informed on technology trends and developments.'
 taxonomy:
   category: [posts]
-  tag: [tech watch, technology trends, technology developments]
+  tags: ["tech watch", technology trends, technology developments]
 ---
 
 # Explanation of the listening system in place
@@ -19,7 +19,7 @@ The platform’s success lies in the vast variety of content, ensuring that read
 
 ## [Reddit.com](http://reddit.com/)
 
-Reddit is an open online community where people can post and talk through about anything and everything. Thanks to the unfiltered platform, latest technology news often breaks here first. It operates as a series of forums (or "subreddits"), where users can share, comment on, and upvote content. Some of these forums are dedicated specifically to technology news, product reviews, and in-depth discussions on everything tech such as r/gadgets (21 Million members), r/Futurology (19 M), and r/technology (15 M). 
+Reddit is an open online community where people can post and talk through about anything and everything. Thanks to the unfiltered platform, latest technology news often breaks here first. It operates as a series of forums (or "subreddits"), where users can share, comment on, and upvote content. Some of these forums are dedicated specifically to technology news, product reviews, and in-depth discussions on everything tech such as r/gadgets (21 Million members), r/Futurology (19 M), and r/technology (15 M).
 
 As an open platform, Reddit democratizes access to information and facilitates robust discussions, allowing different perspectives to emerge. This real-time interaction makes it a potent tool for tracking immediate reactions to tech news and trends. Moreover, the platform's upvote system helps highlight the most valued content, making it easier to find trending topics or important updates.
 

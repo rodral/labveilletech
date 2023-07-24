@@ -1,10 +1,10 @@
 ---
 title: "Tiktok Marketing"
-date: 2023-01-31
+date: 2023-01-27
 description: 'A new way of marketing'
 taxonomy:
   category: [posts]
-  tag: [tiktok, marketing, social media]
+  tag: ["tiktok", "marketing", "social media"]
 ---
 
 # How new marketing strategies are changing the way we consume content and interact with brands

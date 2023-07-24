@@ -1,10 +1,10 @@
 ---
 title: "Innovative Learning"
-date: 2023-01-31
+date: 2023-01-20
 description: 'Innovation in Learning: The Power of Instagram'
 taxonomies:
   category: [posts]
-  tag: [instagram, learning, innovation]
+  tags: ["instagram", "learning", "innovation"]
 ---
 
 ## Introduction

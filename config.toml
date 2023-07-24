@@ -37,9 +37,9 @@ pygmentsUseClasses = true
 #      unsafe = true
 #      xhtml = false
 
-#[taxonomies]
-#  category = 'categories'
-#  tag = 'tags'
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
 
 [menu]
   [[menu.main]]
@@ -60,11 +60,11 @@ pygmentsUseClasses = true
  #   url = '/categories/'
  #   weight = 4
 
- # [[menu.main]]
- #   identifier = 'tags'
- #   name = 'Tags'
- #   url = '/tags/'
- #   weight = 5
+# [[menu.main]]
+#    identifier = 'tags'
+#    name = 'Tags'
+#    url = '/tags/'
+#    weight = 3
 
 
   

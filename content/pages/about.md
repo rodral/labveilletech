@@ -25,4 +25,4 @@ With a strong IT foundation, I have found my calling in combining creativity and
 
 Ikigai is a Japanese concept that refers to a person's reason for being, their source of happiness and fulfillment. It is often described as the intersection of four key elements: what you love, what you are good at, what the world needs, and what you can be paid for. By finding and pursuing one's Ikigai, it is believed that a person can achieve a sense of purpose and meaning in their life. This is what mine looks like.
 
-![ikigai](/static/images/ikigai.png)
+![My Ikigai](../images/ikigai.png)
