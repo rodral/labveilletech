@@ -1,6 +1,6 @@
 ---
 title: "Tech Watch"
-date: 2023-01-31
+date: 2023-01-06
 description: 'Find out how I maintain my technology watch using popular online platforms. From Medium to TikTok, follow my approach to stay informed on technology trends and developments.'
 taxonomy:
   category: [posts]
